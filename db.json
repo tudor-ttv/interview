@@ -7,9 +7,7 @@
       "phone": "+4 (952) 555-3857",
       "address": "609 Brigham Street, Allensworth, Missouri, 5813",
       "email": "charmaine.richardson@endipin.com",
-      "roles": [
-        "ceo"
-      ]
+      "roles": ["ceo"]
     },
     {
       "id": 2,
@@ -18,9 +16,7 @@
       "phone": "+4 (864) 600-2080",
       "address": "497 Monitor Street, Urbana, Oklahoma, 4313",
       "email": "lyons.mccoy@sybixtex.com",
-      "roles": [
-        "tester"
-      ],
+      "roles": ["tester"],
       "manager": 10
     },
     {
@@ -30,10 +26,7 @@
       "phone": "+4 (980) 452-3197",
       "address": "306 Arion Place, Hillsboro, Wyoming, 8849",
       "email": "dorthy.melton@centrexin.com",
-      "roles": [
-        "hr",
-        "manager"
-      ],
+      "roles": ["hr", "manager"],
       "manager": 1
     },
     {
@@ -43,9 +36,7 @@
       "phone": "+4 (855) 570-2000",
       "address": "708 Cortelyou Road, Cartwright, North Dakota, 2569",
       "email": "geneva.jarvis@kyaguru.com",
-      "roles": [
-        "designer"
-      ],
+      "roles": ["designer"],
       "manager": 10
     },
     {
@@ -55,9 +46,7 @@
       "phone": "+4 (896) 434-3726",
       "address": "747 Cove Lane, Zarephath, Utah, 8338",
       "email": "rollins.roach@overfork.com",
-      "roles": [
-        "dev"
-      ],
+      "roles": ["dev"],
       "manager": 10
     },
     {
@@ -67,9 +56,7 @@
       "phone": "+4 (994) 543-2365",
       "address": "441 Cass Place, Beyerville, Maryland, 1547",
       "email": "bean.sanford@providco.com",
-      "roles": [
-        "dev"
-      ],
+      "roles": ["dev"],
       "manager": 10
     },
     {
@@ -79,9 +66,7 @@
       "phone": "+4 (968) 423-3028",
       "address": "242 Ira Court, Freetown, Georgia, 9762",
       "email": "jana.grant@geeknet.com",
-      "roles": [
-        "hr"
-      ],
+      "roles": ["hr"],
       "manager": 3
     },
     {
@@ -91,9 +76,7 @@
       "phone": "+4 (989) 437-2505",
       "address": "573 Martense Street, Crawfordsville, Virgin Islands, 8040",
       "email": "hurst.horton@lyria.com",
-      "roles": [
-        "tester"
-      ],
+      "roles": ["tester"],
       "manager": 14
     },
     {
@@ -103,9 +86,7 @@
       "phone": "+4 (966) 529-2041",
       "address": "352 Surf Avenue, Crumpler, Massachusetts, 9831",
       "email": "duke.bond@arctiq.com",
-      "roles": [
-        "designer"
-      ],
+      "roles": ["designer"],
       "manager": 10
     },
     {
@@ -115,9 +96,7 @@
       "phone": "+4 (974) 431-3726",
       "address": "248 Baltic Street, Dotsero, Indiana, 3789",
       "email": "vicky.ferrell@blanet.com",
-      "roles": [
-        "manager"
-      ],
+      "roles": ["manager"],
       "manager": 1
     },
     {
@@ -127,9 +106,7 @@
       "phone": "+4 (997) 459-2573",
       "address": "276 Conklin Avenue, Franklin, Alaska, 6517",
       "email": "boyd.sherman@geekol.com",
-      "roles": [
-        "writer"
-      ],
+      "roles": ["writer"],
       "manager": 10
     },
     {
@@ -139,9 +116,7 @@
       "phone": "+4 (871) 565-3805",
       "address": "937 Pleasant Place, Loretto, Florida, 9825",
       "email": "ana.nunez@cosmetex.com",
-      "roles": [
-        "writer"
-      ],
+      "roles": ["writer"],
       "manager": 10
     },
     {
@@ -151,9 +126,7 @@
       "phone": "+4 (997) 551-2320",
       "address": "738 Locust Avenue, Blanford, Ohio, 3593",
       "email": "keith.west@columella.com",
-      "roles": [
-        "dev"
-      ],
+      "roles": ["dev"],
       "manager": 14
     },
     {
@@ -163,9 +136,7 @@
       "phone": "+4 (997) 275-2413",
       "address": "245 Long Avenue, Miami, 3134",
       "email": "mckenny.john@lengiy.com",
-      "roles": [
-        "manager"
-      ],
+      "roles": ["manager"],
       "manager": 1
     }
   ],
@@ -203,48 +174,27 @@
     {
       "name": "HR",
       "teamLeader": 3,
-      "members": [
-        3,
-        7
-      ]
+      "members": [3, 7]
     },
     {
       "name": "Project Alpha",
       "teamLeader": 5,
-      "members": [
-        2,
-        5,
-        6,
-        9,
-        11
-      ]
+      "members": [2, 5, 6, 9, 11]
     },
     {
       "name": "Marketing",
       "teamLeader": 12,
-      "members": [
-        4,
-        12
-      ]
+      "members": [4, 12]
     },
     {
       "name": "Board of Directors",
       "teamLeader": 1,
-      "members": [
-        1,
-        3,
-        10,
-        14
-      ]
+      "members": [1, 3, 10, 14]
     },
     {
       "name": "R&D Team",
       "teamLeader": 14,
-      "members": [
-        8,
-        13,
-        14
-      ]
+      "members": [6, 8, 13, 14]
     }
   ]
 }
